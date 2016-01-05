@@ -1,1 +1,4 @@
-<?php phpinfo(); ?>
+<?php 
+echo "oi<br>";
+phpinfo(); 
+?>
